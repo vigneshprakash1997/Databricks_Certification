@@ -1,8 +1,8 @@
 # A Guide to Databricks Spark Certification
 
-[![Stars](https://img.shields.io/github/stars/Realsid/databricks-spark-certification?style=social)](https://github.com/Realsid/databricks-spark-certification) 
+[![Stars](https://github.com/vigneshprakash1997/Databricks_Certification?style=social)](https://github.com/vigneshprakash1997/Databricks_Certification) 
 <p align="center">
-  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/db-logo.png">
+  <img src="https://github.com/vigneshprakash1997/Databricks_Certification/blob/63160cce2ee4350fa92f257b437ede84d64e358c/assets/db-logo.png">
 </p>
 
 Welcome to guide to databricks spark certification ! This repository will help you:
@@ -18,52 +18,52 @@ Throughout the guide more emphesis will be given to a code first methodology wit
 
 Once you setup the account download the .DBC files and upload it to your databricks account as shown below:
 
-1.Log into databricks community edition and click on import![](https://github.com/Realsid/databricks-spark-certification/blob/master/assets/step1.png)
-2.Click on file and browse![](https://github.com/Realsid/databricks-spark-certification/blob/master/assets/step2.png)
-3. Upload the databricks-spark-certification.dbc file![](https://github.com/Realsid/databricks-spark-certification/blob/master/assets/step3.png)
+1.Log into databricks community edition and click on import![](https://github.com/vigneshprakash1997/Databricks_Certification/blob/63160cce2ee4350fa92f257b437ede84d64e358c/assets/step1.png)
+2.Click on file and browse![](https://github.com/vigneshprakash1997/Databricks_Certification/blob/63160cce2ee4350fa92f257b437ede84d64e358c/assets/step2.png)
+3. Upload the databricks-spark-certification.dbc file![](https://github.com/vigneshprakash1997/Databricks_Certification/blob/63160cce2ee4350fa92f257b437ede84d64e358c/assets/step3.png)
 
-This guide is suplemented with a [google sheet](https://docs.google.com/spreadsheets/d/1QOymDzCGG0LgzoFbSdwMPMEfysVwQs2oyTiIagSBSKM/edit?usp=sharing) where you can find topic wise breakup of material provided in the guide.
+This guide is suplemented with a [google sheet](https://docs.google.com/spreadsheets/d/1CsE_AVS2OT1QyvMOZwjZVV2Q75sC7sA8uF1Drx72lsg/edit?usp=sharing) where you can find topic wise breakup of material provided in the guide.
 
 # Snippets
 
 ## Contents
 
 ><p align="center">
->  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
+>  <img src="https://github.com/vigneshprakash1997/Databricks_Certification/blob/63160cce2ee4350fa92f257b437ede84d64e358c/assets/contents.jpg">
 ></p>
 
 ## Chapters
 
 ><p align="center">
->  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/chapter1_preview.jpg">
+>  <img src="https://github.com/vigneshprakash1997/Databricks_Certification/blob/63160cce2ee4350fa92f257b437ede84d64e358c/assets/chapter1_preview.jpg">
 ></p>
 
 ## Diagrams
 
 ><p align="center">
->  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/diagrams.jpg">
+>  <img src="https://github.com/vigneshprakash1997/Databricks_Certification/blob/63160cce2ee4350fa92f257b437ede84d64e358c/assets/diagrams.jpg">
 ></p>
 
 ## Insightful Markdown
 
 ><p align="center">
->  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/insightful_markdown.JPG">
+>  <img src="https://github.com/vigneshprakash1997/Databricks_Certification/blob/63160cce2ee4350fa92f257b437ede84d64e358c/assets/insightful_markdown.JPG">
 ></p>
 
 ## Tricks and tips
 
 ><p align="center">
->  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/experience.jpg">
+>  <img src="https://github.com/vigneshprakash1997/Databricks_Certification/blob/63160cce2ee4350fa92f257b437ede84d64e358c/assets/experience.jpg">
 ></p>
 
 ## Scenario based exercises
 
 ><p align="center">
->  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/scenario_based_excercise.JPG">
+>  <img src="https://github.com/vigneshprakash1997/Databricks_Certification/blob/63160cce2ee4350fa92f257b437ede84d64e358c/assets/scenario_based_excercise.JPG">
 ></p>
 
 ## Solutions
 
 ><p align="center">
->  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/solutions.JPG">
+>  <img src="https://github.com/vigneshprakash1997/Databricks_Certification/blob/63160cce2ee4350fa92f257b437ede84d64e358c/assets/solutions.JPG">
 ></p>
